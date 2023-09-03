@@ -14,3 +14,5 @@ Utilising Tableau to create a comprehensive dashboard that presents key insights
 * Plotly, Seaborn - Data visualization
 * Pandas - Data Cleaning
 * Pymongo - To store and retrieve the data by connecting with MongoDB Atlas
+# Tableau Airbnb Analysis link:
+https://public.tableau.com/app/profile/mithuna.k.n/viz/Capstone-AirbnbAnalysis/Dashboard1?publish=yes
