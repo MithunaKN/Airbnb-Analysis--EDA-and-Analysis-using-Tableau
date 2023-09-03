@@ -11,6 +11,6 @@ Using the cleaned data to analyze and visualize how prices vary across different
 # Dashboard Creation: 
 Utilising Tableau to create a comprehensive dashboard that presents key insights from the analysis. 
 # Libraries used:
-Plotly, Seaborn - Data visualization
-Pandas - Data Cleaning
-Pymongo - To store and retrieve the data by connecting with MongoDB Atlas
+* Plotly, Seaborn - Data visualization
+* Pandas - Data Cleaning
+* Pymongo - To store and retrieve the data by connecting with MongoDB Atlas
